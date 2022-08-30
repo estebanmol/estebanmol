@@ -2,7 +2,7 @@
 My name is Esteban, I'm from Argentina and I’m Linux System Administrator.
 
 ### Skill
-- Some Python and Hashkell coding.
+- Some Python and Haskell coding.
 - GCP, Docker, Kubernetes, and Terraform.
 - GNU/Linux.
 
